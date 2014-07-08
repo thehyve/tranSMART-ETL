@@ -221,6 +221,10 @@
           <stream_name>Synonym_ID</stream_name>
         </field>
         <field>
+          <column_name>gpl_id</column_name>
+          <stream_name>Platform</stream_name>
+        </field>
+        <field>
           <column_name>ORGANISM</column_name>
           <stream_name>Organism</stream_name>
         </field>
@@ -270,7 +274,7 @@
     <encoding/>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>${DATA_LOCATION}&#47;${GPL_ID}_annotation.txt</name>
+      <name>${DATA_LOCATION}&#47;mirna_annotation.txt</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>Y</file_required>
@@ -327,7 +331,7 @@
         <repeat>N</repeat>
       </field>
       <field>
-        <name>Organism</name>
+        <name>Platform</name>
         <type>String</type>
         <format/>
         <currency/>
@@ -339,6 +343,21 @@
         <length>-1</length>
         <precision>-1</precision>
         <trim_type>none</trim_type>
+        <repeat>N</repeat>
+      </field>
+      <field>
+        <name>Organism</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <ifnull/>
+        <position>-1</position>
+        <length>-1</length>
+        <precision>-1</precision>
+        <trim_type>both</trim_type>
         <repeat>N</repeat>
       </field>
     </fields>

@@ -57,6 +57,11 @@
             <description>subject-sample map filename</description>
         </parameter>
         <parameter>
+            <name>MIRNA_TYPE</name>
+            <default_value/>
+            <description/>
+        </parameter>
+        <parameter>
             <name>SAMPLE_REMAP_FILENAME</name>
             <default_value>NOSAMPLEREMAP</default_value>
             <description>File containing list of sample_cd&apos;s in gene expression data to be remapped, also used if sample_cd&apos;s are to be removed from dataset</description>
@@ -297,7 +302,7 @@
       <yloc>79</yloc>
       </entry>
     <entry>
-      <name>No RNA sequencing data file</name>
+      <name>No miRNA sequencing data file</name>
       <description/>
       <type>ABORT</type>
       <message>FILE NOT FOUND: ${DATA_LOCATION}&#47;${DATA_FILE_PREFIX}</message>
@@ -572,7 +577,7 @@
       <type>WRITE_TO_LOG</type>
       <logmessage>*********END OF QPCR MIRNA ETL**********
 </logmessage>
-      <loglevel/>
+      <loglevel>Basic</loglevel>
       <logsubject/>
       <parallel>N</parallel>
       <draw>Y</draw>
@@ -611,7 +616,7 @@
     </hop>
     <hop>
       <from>Fail if number of files = 0</from>
-      <to>No RNA sequencing data file</to>
+      <to>No miRNA sequencing data file</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
