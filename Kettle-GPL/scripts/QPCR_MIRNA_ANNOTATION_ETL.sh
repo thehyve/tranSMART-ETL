@@ -7,4 +7,4 @@
 -param:SORT_DIR=/tmp \
 -param:GPL_ID=222 \
 -param:LOAD_TYPE=I \
--param:ANNOTATION_TITLE='QPCR_MIRNA'
+-param:ANNOTATION_TITLE='MIRNA_QPCR'
