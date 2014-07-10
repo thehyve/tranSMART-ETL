@@ -265,7 +265,7 @@ BEGIN
 		   and s.trial_name = TrialID
 		   and s.source_cd = sourceCD
 		   and s.platform = g.platform
-		   and upper(g.marker_type) = 'QPCR_MIRNA'
+		   and upper(g.marker_type) = 'MIRNA_QPCR'
 		   and not exists
 			  (select 1 from patient_dimension x
 			   where x.sourcesystem_cd = 
@@ -376,7 +376,7 @@ BEGIN
 	  and nvl(a.platform,'GPL570') = g.platform
 	  and a.source_cd = sourceCD
 	  and a.platform = g.platform
-	  and upper(g.marker_type) = 'QPCR_MIRNA'
+	  and upper(g.marker_type) = 'MIRNA_QPCR'
 	  and g.title = (select min(x.title) from de_gpl_info x where nvl(a.platform,'GPL570') = x.platform)
       -- and upper(g.organism) = 'HOMO SAPIENS'
 	  ;
