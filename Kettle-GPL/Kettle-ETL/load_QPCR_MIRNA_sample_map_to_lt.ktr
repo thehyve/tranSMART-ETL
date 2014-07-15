@@ -656,7 +656,7 @@
 <condition>
  <negated>N</negated>
  <leftvalue>marker_type</leftvalue>
- <function>=</function>
+ <function>IS NOT NULL</function>
  <rightvalue/>
  <value><name>constant</name><type>String</type><text>QPCR_MIRNA</text><length>-1</length><precision>-1</precision><isnull>N</isnull><mask/></value> </condition>
     </compare>
