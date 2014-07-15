@@ -658,7 +658,7 @@
  <leftvalue>marker_type</leftvalue>
  <function>IS NOT NULL</function>
  <rightvalue/>
- <value><name>constant</name><type>String</type><text>QPCR_MIRNA</text><length>-1</length><precision>-1</precision><isnull>N</isnull><mask/></value> </condition>
+ <value><name>constant</name><type>String</type><text>MIRNA_QPCR</text><length>-1</length><precision>-1</precision><isnull>N</isnull><mask/></value> </condition>
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>

@@ -220,7 +220,7 @@
         <currency/>
         <decimal/>
         <group/>
-        <nullif>QPCR_MIRNA</nullif>
+        <nullif>MIRNA_QPCR</nullif>
         <length>-1</length>
         <precision>-1</precision>
       </field>
