@@ -83,8 +83,8 @@
 * See the License for the specific language governing permissions and
 * limitations under the License.
 ******************************************************************&#47;</note>
-      <xloc>26</xloc>
-      <yloc>1044</yloc>
+      <xloc>52</xloc>
+      <yloc>802</yloc>
       <width>444</width>
       <heigth>197</heigth>
       <fontname>Microsoft Sans Serif</fontname>
@@ -104,12 +104,205 @@
     </notepad>
     <notepad>
       <note>no modifiers</note>
-      <xloc>799</xloc>
-      <yloc>118</yloc>
+      <xloc>1467</xloc>
+      <yloc>306</yloc>
       <width>70</width>
       <heigth>22</heigth>
       <fontname>Microsoft Sans Serif</fontname>
       <fontsize>8</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>165</backgroundcolorgreen>
+      <backgroundcolorblue>0</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Metadata</note>
+      <xloc>1315</xloc>
+      <yloc>824</yloc>
+      <width>64</width>
+      <heigth>25</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>165</backgroundcolorgreen>
+      <backgroundcolorblue>0</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Data</note>
+      <xloc>1631</xloc>
+      <yloc>575</yloc>
+      <width>37</width>
+      <heigth>25</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>165</backgroundcolorgreen>
+      <backgroundcolorblue>0</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Split on columns
+</note>
+      <xloc>2465</xloc>
+      <yloc>720</yloc>
+      <width>112</width>
+      <heigth>25</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>165</backgroundcolorgreen>
+      <backgroundcolorblue>0</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Visit
+</note>
+      <xloc>4355</xloc>
+      <yloc>22</yloc>
+      <width>42</width>
+      <heigth>25</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>165</backgroundcolorgreen>
+      <backgroundcolorblue>0</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Aggregate values</note>
+      <xloc>5174</xloc>
+      <yloc>133</yloc>
+      <width>111</width>
+      <heigth>25</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>165</backgroundcolorgreen>
+      <backgroundcolorblue>0</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Alternate data labels</note>
+      <xloc>6227</xloc>
+      <yloc>723</yloc>
+      <width>129</width>
+      <heigth>25</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>165</backgroundcolorgreen>
+      <backgroundcolorblue>0</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Alternate data values</note>
+      <xloc>7751</xloc>
+      <yloc>1094</yloc>
+      <width>132</width>
+      <heigth>25</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>165</backgroundcolorgreen>
+      <backgroundcolorblue>0</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Add sequence
+</note>
+      <xloc>9730</xloc>
+      <yloc>214</yloc>
+      <width>100</width>
+      <heigth>25</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>165</backgroundcolorgreen>
+      <backgroundcolorblue>0</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Handle visit name
+</note>
+      <xloc>10410</xloc>
+      <yloc>806</yloc>
+      <width>120</width>
+      <heigth>25</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
       <fontbold>N</fontbold>
       <fontitalic>N</fontitalic>
       <fontcolorred>0</fontcolorred>
@@ -273,8 +466,8 @@
       <always_log_rows>Y</always_log_rows>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2244</xloc>
-      <yloc>29</yloc>
+      <xloc>5696</xloc>
+      <yloc>36</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -304,8 +497,8 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1555</xloc>
-      <yloc>537</yloc>
+      <xloc>4085</xloc>
+      <yloc>20</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -331,8 +524,8 @@
     </keys_2>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>669</xloc>
-      <yloc>530</yloc>
+      <xloc>1675</xloc>
+      <yloc>874</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -373,8 +566,8 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2599</xloc>
-      <yloc>1152</yloc>
+      <xloc>9777</xloc>
+      <yloc>278</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -400,8 +593,8 @@
     </keys_2>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>401</xloc>
-      <yloc>847</yloc>
+      <xloc>775</xloc>
+      <yloc>629</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -429,8 +622,8 @@
     </keys_2>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>577</xloc>
-      <yloc>241</yloc>
+      <xloc>975</xloc>
+      <yloc>317</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -460,8 +653,8 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>284</xloc>
-      <yloc>598</yloc>
+      <xloc>586</xloc>
+      <yloc>502</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -492,8 +685,8 @@
 </calculation>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2770</xloc>
-      <yloc>1438</yloc>
+      <xloc>10462</xloc>
+      <yloc>392</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -520,8 +713,8 @@
       <max_value>999999999</max_value>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>204</xloc>
-      <yloc>98</yloc>
+      <xloc>162</xloc>
+      <yloc>36</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -547,8 +740,8 @@
     </keys_2>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1507</xloc>
-      <yloc>260</yloc>
+      <xloc>3107</xloc>
+      <yloc>412</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -585,8 +778,8 @@
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2736</xloc>
-      <yloc>1056</yloc>
+      <xloc>9528</xloc>
+      <yloc>242</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -666,8 +859,8 @@
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2507</xloc>
-      <yloc>293</yloc>
+      <xloc>5406</xloc>
+      <yloc>191</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -747,8 +940,8 @@
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2340</xloc>
-      <yloc>307</yloc>
+      <xloc>5331</xloc>
+      <yloc>232</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -828,8 +1021,8 @@
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2616</xloc>
-      <yloc>294</yloc>
+      <xloc>5505</xloc>
+      <yloc>136</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -856,8 +1049,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2514</xloc>
-      <yloc>565</yloc>
+      <xloc>5730</xloc>
+      <yloc>447</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -884,8 +1077,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2521</xloc>
-      <yloc>651</yloc>
+      <xloc>7051</xloc>
+      <yloc>451</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -916,8 +1109,8 @@
       </steps>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1963</xloc>
-      <yloc>1220</yloc>
+      <xloc>2339</xloc>
+      <yloc>1654</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -998,8 +1191,8 @@
       </mapping>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2324</xloc>
-      <yloc>1604</yloc>
+      <xloc>11574</xloc>
+      <yloc>1124</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1030,8 +1223,8 @@
 </calculation>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1524</xloc>
-      <yloc>1112</yloc>
+      <xloc>1900</xloc>
+      <yloc>1546</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1061,8 +1254,8 @@
         <storage_type/>
       </meta>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2212</xloc>
-      <yloc>237</yloc>
+      <xloc>5126</xloc>
+      <yloc>51</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1090,8 +1283,8 @@
 <target_step>Bulk Loader</target_step>
 </case></cases>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2321</xloc>
-      <yloc>1491</yloc>
+      <xloc>11303</xloc>
+      <yloc>1123</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1131,8 +1324,8 @@
 <target_step>Set alt data_value from column value</target_step>
 </case></cases>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1120</xloc>
-      <yloc>506</yloc>
+      <xloc>2586</xloc>
+      <yloc>760</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1171,8 +1364,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>870</xloc>
-      <yloc>579</yloc>
+      <xloc>1930</xloc>
+      <yloc>919</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1199,8 +1392,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2774</xloc>
-      <yloc>1280</yloc>
+      <xloc>10188</xloc>
+      <yloc>354</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1227,8 +1420,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1522</xloc>
-      <yloc>1226</yloc>
+      <xloc>1898</xloc>
+      <yloc>1660</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1255,8 +1448,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2223</xloc>
-      <yloc>414</yloc>
+      <xloc>4935</xloc>
+      <yloc>132</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1295,8 +1488,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1694</xloc>
-      <yloc>559</yloc>
+      <xloc>4046</xloc>
+      <yloc>157</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1335,8 +1528,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>473</xloc>
-      <yloc>350</yloc>
+      <xloc>985</xloc>
+      <yloc>74</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1363,8 +1556,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1692</xloc>
-      <yloc>458</yloc>
+      <xloc>3948</xloc>
+      <yloc>140</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1391,8 +1584,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>233</xloc>
-      <yloc>375</yloc>
+      <xloc>429</xloc>
+      <yloc>213</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1419,8 +1612,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1687</xloc>
-      <yloc>264</yloc>
+      <xloc>3213</xloc>
+      <yloc>426</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1447,8 +1640,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>669</xloc>
-      <yloc>13</yloc>
+      <xloc>557</xloc>
+      <yloc>366</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1475,8 +1668,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2035</xloc>
-      <yloc>431</yloc>
+      <xloc>4657</xloc>
+      <yloc>243</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1503,8 +1696,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>392</xloc>
-      <yloc>495</yloc>
+      <xloc>468</xloc>
+      <yloc>567</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1531,8 +1724,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>83</xloc>
-      <yloc>627</yloc>
+      <xloc>362</xloc>
+      <yloc>552</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1571,8 +1764,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1687</xloc>
-      <yloc>327</yloc>
+      <xloc>3329</xloc>
+      <yloc>439</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1599,8 +1792,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>810</xloc>
-      <yloc>510</yloc>
+      <xloc>1820</xloc>
+      <yloc>904</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1683,8 +1876,8 @@
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1773</xloc>
-      <yloc>788</yloc>
+      <xloc>6443</xloc>
+      <yloc>820</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1767,8 +1960,8 @@
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1761</xloc>
-      <yloc>969</yloc>
+      <xloc>8039</xloc>
+      <yloc>1191</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1799,8 +1992,8 @@
 </calculation>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1485</xloc>
-      <yloc>599</yloc>
+      <xloc>4305</xloc>
+      <yloc>45</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1830,8 +2023,8 @@
         <storage_type/>
       </meta>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2744</xloc>
-      <yloc>1143</yloc>
+      <xloc>9674</xloc>
+      <yloc>259</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1848,8 +2041,8 @@
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1243</xloc>
-      <yloc>1225</yloc>
+      <xloc>1619</xloc>
+      <yloc>1659</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1880,8 +2073,8 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1304</xloc>
-      <yloc>96</yloc>
+      <xloc>2792</xloc>
+      <yloc>282</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1912,8 +2105,8 @@
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1216</xloc>
-      <yloc>26</yloc>
+      <xloc>2746</xloc>
+      <yloc>172</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1944,8 +2137,8 @@
 </calculation>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2492</xloc>
-      <yloc>1293</yloc>
+      <xloc>10360</xloc>
+      <yloc>839</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -1984,8 +2177,8 @@
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2037</xloc>
-      <yloc>350</yloc>
+      <xloc>4783</xloc>
+      <yloc>264</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2002,8 +2195,8 @@
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>884</xloc>
-      <yloc>696</yloc>
+      <xloc>2056</xloc>
+      <yloc>942</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2020,8 +2213,8 @@
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2025</xloc>
-      <yloc>256</yloc>
+      <xloc>4881</xloc>
+      <yloc>286</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2038,12 +2231,13 @@
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2618</xloc>
-      <yloc>953</yloc>
+      <xloc>9390</xloc>
+      <yloc>49</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
 
+  
   <step>
     <name>End column count</name>
     <type>Dummy</type>
@@ -2056,8 +2250,8 @@
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1443</xloc>
-      <yloc>97</yloc>
+      <xloc>2889</xloc>
+      <yloc>299</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2074,8 +2268,8 @@
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1361</xloc>
-      <yloc>26</yloc>
+      <xloc>2825</xloc>
+      <yloc>192</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2092,8 +2286,8 @@
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1816</xloc>
-      <yloc>460</yloc>
+      <xloc>3986</xloc>
+      <yloc>60</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2202,8 +2396,8 @@
         </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1286</xloc>
-      <yloc>347</yloc>
+      <xloc>2896</xloc>
+      <yloc>615</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2345,8 +2539,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
         <replace>N</replace>
       </field>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1929</xloc>
-      <yloc>780</yloc>
+      <xloc>6569</xloc>
+      <yloc>832</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2488,8 +2682,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
         <replace>N</replace>
       </field>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1909</xloc>
-      <yloc>966</yloc>
+      <xloc>8161</xloc>
+      <yloc>1210</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2511,8 +2705,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>606</xloc>
-      <yloc>350</yloc>
+      <xloc>1104</xloc>
+      <yloc>96</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2555,8 +2749,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2520</xloc>
-      <yloc>759</yloc>
+      <xloc>8758</xloc>
+      <yloc>93</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2599,8 +2793,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1816</xloc>
-      <yloc>1220</yloc>
+      <xloc>2192</xloc>
+      <yloc>1654</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2831,8 +3025,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     <sizeFieldName/>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>81</xloc>
-      <yloc>491</yloc>
+      <xloc>103</xloc>
+      <yloc>516</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -2928,8 +3122,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     <sizeFieldName/>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>70</xloc>
-      <yloc>97</yloc>
+      <xloc>60</xloc>
+      <yloc>17</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3025,8 +3219,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     <sizeFieldName/>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>92</xloc>
-      <yloc>864</yloc>
+      <xloc>88</xloc>
+      <yloc>679</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3152,8 +3346,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     <sizeFieldName/>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>76</xloc>
-      <yloc>237</yloc>
+      <xloc>62</xloc>
+      <yloc>159</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3236,8 +3430,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
         <stepsecondsfield>Duration</stepsecondsfield>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1681</xloc>
-      <yloc>1223</yloc>
+      <xloc>2057</xloc>
+      <yloc>1657</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3378,8 +3572,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     <sizeFieldName/>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>73</xloc>
-      <yloc>9</yloc>
+      <xloc>85</xloc>
+      <yloc>302</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3447,8 +3641,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2171</xloc>
-      <yloc>1578</yloc>
+      <xloc>11559</xloc>
+      <yloc>1262</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3476,8 +3670,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </keys_2>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>345</xloc>
-      <yloc>217</yloc>
+      <xloc>707</xloc>
+      <yloc>115</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3559,8 +3753,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2032</xloc>
-      <yloc>501</yloc>
+      <xloc>4580</xloc>
+      <yloc>223</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3599,8 +3793,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2455</xloc>
-      <yloc>968</yloc>
+      <xloc>9153</xloc>
+      <yloc>154</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3643,8 +3837,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2367</xloc>
-      <yloc>55</yloc>
+      <xloc>5591</xloc>
+      <yloc>69</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3671,8 +3865,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>510</xloc>
-      <yloc>13</yloc>
+      <xloc>426</xloc>
+      <yloc>349</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3700,8 +3894,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </keys_2>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1464</xloc>
-      <yloc>794</yloc>
+      <xloc>6186</xloc>
+      <yloc>772</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3729,8 +3923,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </keys_2>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1407</xloc>
-      <yloc>967</yloc>
+      <xloc>7743</xloc>
+      <yloc>1157</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3756,8 +3950,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </keys_2>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1541</xloc>
-      <yloc>455</yloc>
+      <xloc>3823</xloc>
+      <yloc>121</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3777,8 +3971,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
       <always_log_rows>Y</always_log_rows>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1843</xloc>
-      <yloc>157</yloc>
+      <xloc>3331</xloc>
+      <yloc>259</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3798,8 +3992,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
       <always_log_rows>Y</always_log_rows>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>831</xloc>
-      <yloc>19</yloc>
+      <xloc>681</xloc>
+      <yloc>305</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3838,8 +4032,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>664</xloc>
-      <yloc>845</yloc>
+      <xloc>960</xloc>
+      <yloc>667</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3866,8 +4060,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>547</xloc>
-      <yloc>846</yloc>
+      <xloc>879</xloc>
+      <yloc>646</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3890,8 +4084,8 @@ Alert(&quot;Hello World!&quot;);</jsScript_script>
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1383</xloc>
-      <yloc>332</yloc>
+      <xloc>3035</xloc>
+      <yloc>636</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -3968,8 +4162,8 @@ else
         <replace>Y</replace>
       </field>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1815</xloc>
-      <yloc>703</yloc>
+      <xloc>5893</xloc>
+      <yloc>577</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4050,8 +4244,8 @@ else
         <replace>Y</replace>
       </field>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1746</xloc>
-      <yloc>885</yloc>
+      <xloc>7274</xloc>
+      <yloc>960</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4068,8 +4262,8 @@ else
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>447</xloc>
-      <yloc>433</yloc>
+      <xloc>1131</xloc>
+      <yloc>24</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4123,8 +4317,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
 </jsScript_script>
       </jsScript>    </jsScripts>    <fields>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1309</xloc>
-      <yloc>588</yloc>
+      <xloc>2781</xloc>
+      <yloc>480</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4202,8 +4396,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2185</xloc>
-      <yloc>690</yloc>
+      <xloc>6795</xloc>
+      <yloc>858</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4281,8 +4475,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2289</xloc>
-      <yloc>831</yloc>
+      <xloc>8499</xloc>
+      <yloc>1253</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4353,8 +4547,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2300</xloc>
-      <yloc>971</yloc>
+      <xloc>9284</xloc>
+      <yloc>179</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4393,8 +4587,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2448</xloc>
-      <yloc>886</yloc>
+      <xloc>8960</xloc>
+      <yloc>136</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4414,8 +4608,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </remove>      <remove>        <name>new_visit_name</name>
       </remove>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1956</xloc>
-      <yloc>586</yloc>
+      <xloc>4572</xloc>
+      <yloc>134</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4505,8 +4699,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
         <storage_type/>
       </meta>    </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2507</xloc>
-      <yloc>400</yloc>
+      <xloc>5551</xloc>
+      <yloc>253</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4560,8 +4754,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1336</xloc>
-      <yloc>1111</yloc>
+      <xloc>1712</xloc>
+      <yloc>1545</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4600,8 +4794,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2767</xloc>
-      <yloc>1523</yloc>
+      <xloc>10609</xloc>
+      <yloc>411</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4630,8 +4824,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1604</xloc>
-      <yloc>623</yloc>
+      <xloc>4442</xloc>
+      <yloc>59</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4660,8 +4854,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2522</xloc>
-      <yloc>1378</yloc>
+      <xloc>10472</xloc>
+      <yloc>862</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4690,8 +4884,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>209</xloc>
-      <yloc>165</yloc>
+      <xloc>437</xloc>
+      <yloc>75</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4720,8 +4914,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>76</xloc>
-      <yloc>309</yloc>
+      <xloc>164</xloc>
+      <yloc>175</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4750,8 +4944,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>265</xloc>
-      <yloc>9</yloc>
+      <xloc>197</xloc>
+      <yloc>319</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4780,8 +4974,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>614</xloc>
-      <yloc>663</yloc>
+      <xloc>958</xloc>
+      <yloc>821</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4851,8 +5045,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1007</xloc>
-      <yloc>522</yloc>
+      <xloc>2003</xloc>
+      <yloc>760</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4874,8 +5068,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1170</xloc>
-      <yloc>95</yloc>
+      <xloc>2710</xloc>
+      <yloc>261</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4897,8 +5091,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1079</xloc>
-      <yloc>27</yloc>
+      <xloc>2665</xloc>
+      <yloc>157</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -4976,8 +5170,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2233</xloc>
-      <yloc>490</yloc>
+      <xloc>5159</xloc>
+      <yloc>334</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5007,8 +5201,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>885</xloc>
-      <yloc>384</yloc>
+      <xloc>1425</xloc>
+      <yloc>388</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5070,8 +5264,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1121</xloc>
-      <yloc>216</yloc>
+      <xloc>2583</xloc>
+      <yloc>286</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5133,8 +5327,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>618</xloc>
-      <yloc>742</yloc>
+      <xloc>878</xloc>
+      <yloc>804</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5220,8 +5414,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1691</xloc>
-      <yloc>401</yloc>
+      <xloc>3475</xloc>
+      <yloc>461</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5251,8 +5445,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>575</xloc>
-      <yloc>158</yloc>
+      <xloc>797</xloc>
+      <yloc>408</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5286,8 +5480,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>346</xloc>
-      <yloc>382</yloc>
+      <xloc>816</xloc>
+      <yloc>140</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5318,7 +5512,7 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
 </calculation>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>483</xloc>
+      <xloc>565</xloc>
       <yloc>588</yloc>
       <draw>Y</draw>
       </GUI>
@@ -5349,8 +5543,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1249</xloc>
-      <yloc>690</yloc>
+      <xloc>2773</xloc>
+      <yloc>760</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5380,8 +5574,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1115</xloc>
-      <yloc>870</yloc>
+      <xloc>2793</xloc>
+      <yloc>1028</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5412,8 +5606,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>83</xloc>
-      <yloc>560</yloc>
+      <xloc>242</xloc>
+      <yloc>534</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5444,8 +5638,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>78</xloc>
-      <yloc>375</yloc>
+      <xloc>294</xloc>
+      <yloc>195</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5476,8 +5670,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>376</xloc>
-      <yloc>37</yloc>
+      <xloc>294</xloc>
+      <yloc>333</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5500,8 +5694,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>731</xloc>
-      <yloc>767</yloc>
+      <xloc>1065</xloc>
+      <yloc>683</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5524,8 +5718,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2061</xloc>
-      <yloc>737</yloc>
+      <xloc>6665</xloc>
+      <yloc>847</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5555,8 +5749,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>863</xloc>
-      <yloc>299</yloc>
+      <xloc>1287</xloc>
+      <yloc>265</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5579,8 +5773,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2046</xloc>
-      <yloc>925</yloc>
+      <xloc>8274</xloc>
+      <yloc>1225</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5610,8 +5804,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1028</xloc>
-      <yloc>356</yloc>
+      <xloc>1322</xloc>
+      <yloc>372</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5646,8 +5840,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2477</xloc>
-      <yloc>1150</yloc>
+      <xloc>9875</xloc>
+      <yloc>300</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5678,8 +5872,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
 </calculation>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2620</xloc>
-      <yloc>1234</yloc>
+      <xloc>10090</xloc>
+      <yloc>332</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5709,8 +5903,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2771</xloc>
-      <yloc>1351</yloc>
+      <xloc>10359</xloc>
+      <yloc>373</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5745,8 +5939,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1432</xloc>
-      <yloc>537</yloc>
+      <xloc>4208</xloc>
+      <yloc>32</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5776,8 +5970,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2615</xloc>
-      <yloc>1300</yloc>
+      <xloc>10271</xloc>
+      <yloc>816</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5808,8 +6002,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
 </calculation>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2492</xloc>
-      <yloc>1221</yloc>
+      <xloc>10004</xloc>
+      <yloc>317</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5863,8 +6057,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2316</xloc>
-      <yloc>1212</yloc>
+      <xloc>9398</xloc>
+      <yloc>982</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5894,8 +6088,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1836</xloc>
-      <yloc>350</yloc>
+      <xloc>3384</xloc>
+      <yloc>358</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5918,8 +6112,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1805</xloc>
-      <yloc>609</yloc>
+      <xloc>4449</xloc>
+      <yloc>115</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5936,8 +6130,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>978</xloc>
-      <yloc>645</yloc>
+      <xloc>2590</xloc>
+      <yloc>929</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5954,8 +6148,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>83</xloc>
-      <yloc>716</yloc>
+      <xloc>453</xloc>
+      <yloc>466</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5972,8 +6166,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>232</xloc>
-      <yloc>434</yloc>
+      <xloc>520</xloc>
+      <yloc>158</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -5990,8 +6184,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>511</xloc>
-      <yloc>97</yloc>
+      <xloc>543</xloc>
+      <yloc>285</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6027,8 +6221,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1329</xloc>
-      <yloc>774</yloc>
+      <xloc>2925</xloc>
+      <yloc>776</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6064,8 +6258,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1140</xloc>
-      <yloc>970</yloc>
+      <xloc>3038</xloc>
+      <yloc>1154</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6111,8 +6305,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1612</xloc>
-      <yloc>791</yloc>
+      <xloc>6294</xloc>
+      <yloc>799</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6158,8 +6352,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1583</xloc>
-      <yloc>967</yloc>
+      <xloc>7873</xloc>
+      <yloc>1173</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6195,8 +6389,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1399</xloc>
-      <yloc>888</yloc>
+      <xloc>7576</xloc>
+      <yloc>1009</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6227,8 +6421,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1542</xloc>
-      <yloc>387</yloc>
+      <xloc>3554</xloc>
+      <yloc>473</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6259,8 +6453,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>397</xloc>
-      <yloc>704</yloc>
+      <xloc>657</xloc>
+      <yloc>604</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6291,8 +6485,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1504</xloc>
-      <yloc>184</yloc>
+      <xloc>2702</xloc>
+      <yloc>374</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6328,8 +6522,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1457</xloc>
-      <yloc>703</yloc>
+      <xloc>6171</xloc>
+      <yloc>615</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6370,8 +6564,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>745</xloc>
-      <yloc>387</yloc>
+      <xloc>1549</xloc>
+      <yloc>405</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6407,8 +6601,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>237</xloc>
-      <yloc>227</yloc>
+      <xloc>569</xloc>
+      <yloc>89</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6439,8 +6633,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>783</xloc>
-      <yloc>671</yloc>
+      <xloc>1093</xloc>
+      <yloc>843</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6476,8 +6670,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>240</xloc>
-      <yloc>302</yloc>
+      <xloc>538</xloc>
+      <yloc>228</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6533,8 +6727,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2215</xloc>
-      <yloc>318</yloc>
+      <xloc>5025</xloc>
+      <yloc>33</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6565,8 +6759,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>401</xloc>
-      <yloc>958</yloc>
+      <xloc>444</xloc>
+      <yloc>724</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6602,8 +6796,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>682</xloc>
-      <yloc>159</yloc>
+      <xloc>690</xloc>
+      <yloc>391</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6659,8 +6853,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2536</xloc>
-      <yloc>1049</yloc>
+      <xloc>9460</xloc>
+      <yloc>223</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6696,8 +6890,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>448</xloc>
-      <yloc>245</yloc>
+      <xloc>896</xloc>
+      <yloc>161</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6728,8 +6922,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1301</xloc>
-      <yloc>475</yloc>
+      <xloc>2783</xloc>
+      <yloc>595</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6760,8 +6954,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1370</xloc>
-      <yloc>260</yloc>
+      <xloc>3110</xloc>
+      <yloc>650</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6792,8 +6986,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>607</xloc>
-      <yloc>431</yloc>
+      <xloc>3681</xloc>
+      <yloc>99</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6817,8 +7011,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
    <delimiter_is_regex>N</delimiter_is_regex>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2016</xloc>
-      <yloc>664</yloc>
+      <xloc>5776</xloc>
+      <yloc>564</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6842,8 +7036,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
    <delimiter_is_regex>N</delimiter_is_regex>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1930</xloc>
-      <yloc>887</yloc>
+      <xloc>7156</xloc>
+      <yloc>934</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6867,8 +7061,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
    <delimiter_is_regex>N</delimiter_is_regex>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>371</xloc>
-      <yloc>99</yloc>
+      <xloc>277</xloc>
+      <yloc>47</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6892,8 +7086,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
    <delimiter_is_regex>N</delimiter_is_regex>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>91</xloc>
-      <yloc>958</yloc>
+      <xloc>254</xloc>
+      <yloc>692</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6927,8 +7121,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1844</xloc>
-      <yloc>262</yloc>
+      <xloc>3278</xloc>
+      <yloc>344</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -6958,8 +7152,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
 <target_step>Aggregate MEAN</target_step>
 </case></cases>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2491</xloc>
-      <yloc>154</yloc>
+      <xloc>5282</xloc>
+      <yloc>68</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7093,8 +7287,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2149</xloc>
-      <yloc>1460</yloc>
+      <xloc>11523</xloc>
+      <yloc>984</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7126,8 +7320,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>373</xloc>
-      <yloc>166</yloc>
+      <xloc>361</xloc>
+      <yloc>64</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7159,8 +7353,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2171</xloc>
-      <yloc>889</yloc>
+      <xloc>8399</xloc>
+      <yloc>1239</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7192,8 +7386,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>254</xloc>
-      <yloc>957</yloc>
+      <xloc>351</xloc>
+      <yloc>705</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7225,8 +7419,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1614</xloc>
-      <yloc>703</yloc>
+      <xloc>6060</xloc>
+      <yloc>597</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7258,8 +7452,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1555</xloc>
-      <yloc>889</yloc>
+      <xloc>7439</xloc>
+      <yloc>983</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7291,8 +7485,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2527</xloc>
-      <yloc>825</yloc>
+      <xloc>8835</xloc>
+      <yloc>117</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7346,8 +7540,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2526</xloc>
-      <yloc>1530</yloc>
+      <xloc>10802</xloc>
+      <yloc>434</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7401,8 +7595,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
       </field>        <select_unspecified>N</select_unspecified>
     </fields>     <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2521</xloc>
-      <yloc>1451</yloc>
+      <xloc>10665</xloc>
+      <yloc>881</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7524,8 +7718,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </fields>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2064</xloc>
-      <yloc>111</yloc>
+      <xloc>5229</xloc>
+      <yloc>9</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7552,8 +7746,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>1224</xloc>
-      <yloc>548</yloc>
+      <xloc>2658</xloc>
+      <yloc>506</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7580,8 +7774,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>785</xloc>
-      <yloc>214</yloc>
+      <xloc>1107</xloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7608,8 +7802,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>990</xloc>
-      <yloc>217</yloc>
+      <xloc>1218</xloc>
+      <yloc>357</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7636,8 +7830,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
     </compare>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2310</xloc>
-      <yloc>1065</yloc>
+      <xloc>9388</xloc>
+      <yloc>199</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
@@ -7654,8 +7848,8 @@ else if (fromLen &gt; 0 &amp;&amp; toLen &gt; 0 )
            </partitioning>
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>2510</xloc>
-      <yloc>488</yloc>
+      <xloc>5634</xloc>
+      <yloc>424</yloc>
       <draw>Y</draw>
       </GUI>
     </step>
